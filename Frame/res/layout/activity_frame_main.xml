@@ -1,0 +1,55 @@
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+	<ImageView 
+	    android:id="@+id/imagen"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="imagen"
+        android:src="@drawable/hobbit"
+	    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Derecha"
+        android:background="#FF0000"
+        android:textSize="23sp"
+        android:layout_gravity="right" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abajo"
+        android:background="#FF0000"
+        android:textSize="23sp"
+        android:layout_gravity="bottom" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CenVer"
+        android:background="#FF0000"
+        android:textSize="23sp"
+        android:layout_gravity="center_vertical" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cenhor"
+        android:background="#FF0000"
+        android:textSize="23sp"
+        android:layout_gravity="center_horizontal" />
+    
+    <EditText 
+        android:id="@+id/TxtNombre"
+        android:layout_width="109dp"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:ems="10"
+        android:inputType="text"
+        />
+    
+    
+   
+    
+    
+
+</FrameLayout>
