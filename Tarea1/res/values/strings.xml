@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title_activity_versiones_main">Versiones</string>
+    <string name="app_name">Versiones</string>
+    <string name="action_settings">Settings</string>
+    <string name="versiones">Versiones de Android: </string>
+    <string name="uno">1.0 Apple pie </string>
+    <string name="dos">1.1 Banana Bread</string>
+    <string name="tres">1.5 Cupcake</string>
+    <string name="cuatro">1.6 Donut</string>
+    <string name="cinco">2.0..2.1 Eclair</string>
+    <string name="android">Android es un sistema operativo fácil de usar que puede personalizarse. Se utiliza en más de mil millones de dispositivos de todo el mundo, desde teléfonos y tablets hasta relojes, televisiones y automóviles</string>
+    <string name="segboton">Versiones de Android</string>
+    <string name="regresar">Android</string>
+</resources>

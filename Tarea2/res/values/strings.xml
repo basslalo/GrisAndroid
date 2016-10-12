@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Operaciones Básicas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Elija una opción:</string>
+    <string name="prin1">Operaciones con botón</string>
+    <string name="prin2">Operaciones con RadioButton</string>
+    <string name="title_activity_operaciones_main">OperacionesMainActivity</string>
+    <string name="sum">Suma</string>
+    <string name="res">Resta</string>
+    <string name="mul">Multiplicación</string>
+    <string name="div">División</string>
+    <string name="resp">Resultado</string>
+    <string name="title_activity_suma_main">SumaMainActivity</string>
+    <string name="title_activity_resta_main">RestaMainActivity</string>
+    <string name="title_activity_multiplicacion_main">MultiplicacionMainActivity</string>
+    <string name="title_activity_division_main">DivisionMainActivity</string>
+    <string name="dig1">Primer valor:</string>
+    <string name="dig2">Segundo valor:</string>
+    <string name="title_activity_radio_main">RadioMainActivity</string>
+    <string name="hint1">Ingrese un numero</string>
+    <string name="op">Operar</string>
+
+</resources>

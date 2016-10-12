@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CambiarActividad</string>
+    <string name="action_settings">Settings</string>
+    <string name="Primero">Estas en el Primer Activity</string>
+    <string name="segboton">Segunda Actividad</string>
+    <string name="Segundo">Estas en el segundo Activity</string>
+    <string name="regresar">Primera actividad</string>
+    <string name="salir">Salir</string>
+    
+    
+    <string name="title_activity_segundo_main">SegundoMainActivity</string>
+
+</resources>

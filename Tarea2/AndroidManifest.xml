@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tarea2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.tarea2.PrincipalMainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.tarea2.OperacionesMainActivity"
+            android:label="@string/title_activity_operaciones_main" >
+        </activity>
+        <activity
+            android:name="com.example.tarea2.SumaMainActivity"
+            android:label="@string/title_activity_suma_main" >
+        </activity>
+        <activity
+            android:name="com.example.tarea2.RestaMainActivity"
+            android:label="@string/title_activity_resta_main" >
+        </activity>
+        <activity
+            android:name="com.example.tarea2.MultiplicacionMainActivity"
+            android:label="@string/title_activity_multiplicacion_main" >
+        </activity>
+        <activity
+            android:name="com.example.tarea2.DivisionMainActivity"
+            android:label="@string/title_activity_division_main" >
+        </activity>
+        <activity
+            android:name="com.example.tarea2.RadioMainActivity"
+            android:label="@string/title_activity_radio_main" >
+        </activity>
+    </application>
+
+</manifest>
